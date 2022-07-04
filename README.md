@@ -1,5 +1,7 @@
 # Numerical Methods in Finance Using Scipy
 
+UIBE-SBF 02035057 数值分析
+
 用 Python 做数值计算**初步**，一般而言就是用 `Scipy` 库做了。
 
 展示格式为 `Numerical Methods in Finance Using Python.ipynb` 。
